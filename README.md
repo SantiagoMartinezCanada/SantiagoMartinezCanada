@@ -9,16 +9,13 @@
 - 📫 Mis motivaciones son ...
 
 #### Lenguajes de Programación
-<styles>
-  .lenguajes {
-        background-color: #EBEBEB;
-    }
-</styles>
 <div class="lenguajes" align="center">
   <div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/107579486/174352714-ed1fce76-0b39-43dd-b7de-d356269c1bd9.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174352763-67c8a56a-b8ae-47fe-9aea-46db67711f1a.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174352814-abe41f62-5547-497f-b1a4-3568c92da1ad.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174354194-38137033-86dd-49ce-bdca-abf071d48c29.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174354206-edb31e01-3804-4418-be94-8f482712e628.png" />
   </div>
 </div>
 
