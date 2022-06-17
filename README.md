@@ -1,13 +1,13 @@
 ## Hola, Soy Santi 👋
 ![Cabecera](https://user-images.githubusercontent.com/107579486/174297978-2c558279-dc25-42f8-aafa-e356bbeb1034.png)
-<br/>
+___
 - 🔭 Actualmente trabajando en ...
 - 🌱 Aprendiendo ...
 - 👯 Colaboraciones ...
 - 🤔 Buscando ayuda con ...
 - 💬 Preguntame por ...
 - 📫 Mis motivaciones son ...
-<br/>
+
 #### Lenguajes de Programación
 <div class="lenguajes" align="center" style="backgroundColor:#2F3C44">
   <div style="display: flex;">
@@ -18,7 +18,7 @@
     <img src="https://user-images.githubusercontent.com/107579486/174354206-edb31e01-3804-4418-be94-8f482712e628.png" />
   </div>
 </div>
-<br/>
+
 #### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
