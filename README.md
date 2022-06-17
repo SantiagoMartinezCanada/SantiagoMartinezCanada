@@ -14,15 +14,10 @@
     <img src="https://user-images.githubusercontent.com/107579486/174352714-ed1fce76-0b39-43dd-b7de-d356269c1bd9.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174352763-67c8a56a-b8ae-47fe-9aea-46db67711f1a.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174352814-abe41f62-5547-497f-b1a4-3568c92da1ad.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174353190-0df3d468-96d7-479c-8253-e70d65e7c660.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174353157-335433df-d318-4c05-9946-93b227346985.png" />
   </div>
 </div>
-
-[![java](https://user-images.githubusercontent.com/107579486/174341634-69216e27-8ebb-4037-a32c-80f17288a9f6.png)](https://www.oracle.com/java/technologies/downloads/)
-![c#](https://user-images.githubusercontent.com/107579486/174341470-848fd2a9-ec73-4643-bfe9-98deee7e2d32.jpg)
-![NETpng](https://user-images.githubusercontent.com/107579486/174341440-e87baf66-518a-4e0e-b34e-a08ca5eddaf3.png)
-![html](https://user-images.githubusercontent.com/107579486/174341324-62414917-c8d5-42d5-9855-d9a43fff8988.png)
-![css3](https://user-images.githubusercontent.com/107579486/174341357-68ea9369-eb87-4e99-b095-3aae2bdd8b5d.png)
-
 
 #### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
