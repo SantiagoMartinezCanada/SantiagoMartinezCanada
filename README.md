@@ -11,9 +11,9 @@
 #### Lenguajes de Programación
 <div align="center">
   <div style="display: flex;">
-    <img src="https://user-images.githubusercontent.com/107579486/174352239-7d7c6a04-5dcd-42e8-865e-8ed0f570fd98.png" />
-    <img src="html](https://user-images.githubusercontent.com/107579486/174344717-21284a64-db13-4431-9c7f-944922834a24.png" />
-    <img src="https://user-images.githubusercontent.com/107579486/174344837-23a87af3-280a-476b-8b46-66ffdd694df9.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174352714-ed1fce76-0b39-43dd-b7de-d356269c1bd9.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174352763-67c8a56a-b8ae-47fe-9aea-46db67711f1a.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174352814-abe41f62-5547-497f-b1a4-3568c92da1ad.png" />
   </div>
 </div>
 
