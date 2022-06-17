@@ -1,6 +1,8 @@
 ### Hola, Soy Santi 👋
 ![Cabecera](https://user-images.githubusercontent.com/107579486/174297978-2c558279-dc25-42f8-aafa-e356bbeb1034.png)
-
+## Software usado
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 <!--
 **SantiagoMartinezCanada/SantiagoMartinezCanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
