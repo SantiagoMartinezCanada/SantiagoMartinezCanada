@@ -1,4 +1,8 @@
 ## Hola, Soy Santi 👋
+<style>
+  .lenguajes {
+        background-color: #2F3C44;
+    }
 ![Cabecera](https://user-images.githubusercontent.com/107579486/174297978-2c558279-dc25-42f8-aafa-e356bbeb1034.png)
 
 - 🔭 Actualmente trabajando en ...
@@ -9,7 +13,7 @@
 - 📫 Mis motivaciones son ...
 
 #### Lenguajes de Programación
-<div align="center">
+<div class="lenguajes" align="center">
   <div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/107579486/174352714-ed1fce76-0b39-43dd-b7de-d356269c1bd9.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174352763-67c8a56a-b8ae-47fe-9aea-46db67711f1a.png" />
