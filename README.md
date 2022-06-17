@@ -20,7 +20,7 @@ ___
 </div>
 ___
 #### Bases de Datos
-<div class="lenguajes" align="center" style="backgroundColor:#2F3C44">
+<div class="db" align="center" style="backgroundColor:#2F3C44">
   <div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/107579486/174352714-ed1fce76-0b39-43dd-b7de-d356269c1bd9.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174352763-67c8a56a-b8ae-47fe-9aea-46db67711f1a.png" />
