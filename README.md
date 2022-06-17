@@ -20,11 +20,16 @@ ___
 </div>
 ___
 #### Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
+<div class="lenguajes" align="center" style="backgroundColor:#2F3C44">
+  <div style="display: flex;">
+    <img src="https://user-images.githubusercontent.com/107579486/174352714-ed1fce76-0b39-43dd-b7de-d356269c1bd9.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174352763-67c8a56a-b8ae-47fe-9aea-46db67711f1a.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174352814-abe41f62-5547-497f-b1a4-3568c92da1ad.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174354194-38137033-86dd-49ce-bdca-abf071d48c29.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174354206-edb31e01-3804-4418-be94-8f482712e628.png" />
+  </div>
+</div>
+___
 #### IDE´s
 ![Android Studio](![java](https://user-images.githubusercontent.com/107579486/174345295-b0a1954b-c006-4ae2-8fe3-a3b0edb141c6.png))
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -41,7 +46,7 @@ ___
 #### Nubes
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
-
+___
 #### Musica
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)
