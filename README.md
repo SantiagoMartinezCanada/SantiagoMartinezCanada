@@ -19,12 +19,13 @@ ___
   </div>
 </div>
 ___
+
 #### Bases de Datos
 <div class="db" align="center" style="backgroundColor:#2F3C44">
   <div style="display: flex;">
-    <img src="https://user-images.githubusercontent.com/107579486/174358298-d2b3e6c0-77c2-485b-ab98-9be17cffe135.png" />
-    <img src="https://user-images.githubusercontent.com/107579486/174358320-dc051637-d46f-4161-a891-5359237b9c5e.png" />
-    <img src="https://user-images.githubusercontent.com/107579486/174358143-cfb8347b-11de-41bb-93b9-46bc6d487eb5.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174358582-1094c79b-bdd2-4a0b-a8a5-e8e6a6864c68.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174358616-fb274536-c7c9-4f5c-9ed9-b4b2b43bab2b.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174358559-17c5eb09-8ca8-4516-b41e-410825d53938.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174358084-d8f65ea4-a0e6-4842-97c1-6d9ded7873f6.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174358379-afce1e30-2cf7-4a4c-8a98-b0d1e91af1a1.png" />
     <ing src"https://user-images.githubusercontent.com/107579486/174358415-24e912de-f1b3-40a8-8ad6-d6b4d2cfc59e.png" />
