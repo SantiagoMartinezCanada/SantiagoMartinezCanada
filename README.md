@@ -9,10 +9,12 @@
 - 📫 Mis motivaciones son ...
 
 #### Lenguajes de Programación
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![java](https://user-images.githubusercontent.com/107579486/174341634-69216e27-8ebb-4037-a32c-80f17288a9f6.png)
+![c#](https://user-images.githubusercontent.com/107579486/174341470-848fd2a9-ec73-4643-bfe9-98deee7e2d32.jpg)
+![NETpng](https://user-images.githubusercontent.com/107579486/174341440-e87baf66-518a-4e0e-b34e-a08ca5eddaf3.png)
+![html](https://user-images.githubusercontent.com/107579486/174341324-62414917-c8d5-42d5-9855-d9a43fff8988.png)
+![css3](https://user-images.githubusercontent.com/107579486/174341357-68ea9369-eb87-4e99-b095-3aae2bdd8b5d.png)
+
 
 #### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
