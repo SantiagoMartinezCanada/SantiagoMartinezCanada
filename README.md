@@ -11,7 +11,7 @@
 #### Lenguajes de Programación
 <img align="left" alt="Java" width="26px" src="![java](https://user-images.githubusercontent.com/107579486/174344179-cea51745-5674-44c7-b6a2-e96b7a0da497.png" />
 <img align="left" alt="Html" width="26px" src="![html](https://user-images.githubusercontent.com/107579486/174344717-21284a64-db13-4431-9c7f-944922834a24.png" />
-<img align="left" alt="Css" width="26px" src="![css3](https://user-images.githubusercontent.com/107579486/174344837-23a87af3-280a-476b-8b46-66ffdd694df9.png" />
+<img align="" alt="Css" width="26px" src="![css3](https://user-images.githubusercontent.com/107579486/174344837-23a87af3-280a-476b-8b46-66ffdd694df9.png" />
 
 [![java](https://user-images.githubusercontent.com/107579486/174341634-69216e27-8ebb-4037-a32c-80f17288a9f6.png)](https://www.oracle.com/java/technologies/downloads/)
 ![c#](https://user-images.githubusercontent.com/107579486/174341470-848fd2a9-ec73-4643-bfe9-98deee7e2d32.jpg)
