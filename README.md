@@ -12,7 +12,7 @@ ___
 <div class="lenguajes" align="center" style="backgroundColor:#2F3C44">
   <div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/107579486/174496202-2d0fc0d4-70b1-4e99-9982-8cc455fb03d5.png" />
-    <img src="https://user-images.githubusercontent.com/107579486/174497081-0fb8e308-788b-42bd-882e-f1a8787bec0e.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174497126-94d1ad1b-7db3-40a8-8449-546c141f9b61.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174352814-abe41f62-5547-497f-b1a4-3568c92da1ad.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174354194-38137033-86dd-49ce-bdca-abf071d48c29.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174354206-edb31e01-3804-4418-be94-8f482712e628.png" />
