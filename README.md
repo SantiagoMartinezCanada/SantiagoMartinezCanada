@@ -23,7 +23,7 @@ ___
 #### Bases de Datos
 <div class="db" align="center" style="backgroundColor:#2F3C44">
   <div style="display: flex;">
-    <img src="https://user-images.githubusercontent.com/107579486/174497273-71e0e2e5-ed80-4293-941e-3b7fed610741.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174497316-30361a41-0b57-4719-abf9-f3bd027a3a9d.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174496355-cdf11f09-5af1-4f7c-82d7-cc161a1ffc91.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174496815-4f246b95-5e1e-49c3-989a-7a509f2ba72f.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174496446-f2faa143-34e1-417b-9ae4-ba7a723ed8a6.png" />
