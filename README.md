@@ -24,7 +24,7 @@ ___
 <div class="db" align="center" style="backgroundColor:#2F3C44">
   <div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/107579486/174496175-d0d6fa8d-b4b0-4748-894a-b3bd9dc64b17.png" />
-    <img src="https://user-images.githubusercontent.com/107579486/174358616-fb274536-c7c9-4f5c-9ed9-b4b2b43bab2b.png" />
+    <img src="https://user-images.githubusercontent.com/107579486/174496355-cdf11f09-5af1-4f7c-82d7-cc161a1ffc91.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174358559-17c5eb09-8ca8-4516-b41e-410825d53938.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174358084-d8f65ea4-a0e6-4842-97c1-6d9ded7873f6.png" />
     <img src="https://user-images.githubusercontent.com/107579486/174358379-afce1e30-2cf7-4a4c-8a98-b0d1e91af1a1.png" />
